@@ -53,3 +53,5 @@ After I did al the fancy stuf I changed my prompt in the .bashrc
 > PS1='\[\e[37m\][\[\e[m\]\u\[\e[31m\]@\[\e[m\]\h \W \d\[\e[37;40m\]]\[\e[m\] '
 
 The prompt will be [User@Hostname current directory current date]
+
+The @ will have a red color
