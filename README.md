@@ -4,7 +4,7 @@
 First I added a welcome message for the weather in Haarlem in the .bashrc with this code
 > curl wttr.in/Haarlem
 
-You can change "Haarlem with any place you want. 
+You can change "Haarlem" with any place you want. 
 
 ## Aliases
 After the welcome message I added some aliases to make work easy also in the .bashrc file
