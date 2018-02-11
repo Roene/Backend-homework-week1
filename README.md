@@ -65,10 +65,13 @@ Google is your best friend [CLI Games](https://www.digitalocean.com/community/tu
 Run after you finished the installation 
 
 > emacs
+>
 > Esc-x
+>
 > pong
 
 *leave the game 
 
 > Ctrl-x
+>
 > Ctrl-c
