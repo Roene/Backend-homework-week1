@@ -38,12 +38,8 @@ I added some git aliases as well in the .bashrc file
 > alias gx='gitx --all'
 
 ### .GITCONFIG
-Added aliases in the .gitconfig file
-	co = checkout
-        ci = commit
-        st = status
-        br = branch
-*For Windows users*
+Added aliases in the .gitconfig file *For Windows users*
+
 > git config --global alias.co checkout
 >
 > git config --global alias.ci commit
