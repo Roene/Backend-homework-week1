@@ -55,3 +55,20 @@ After I did al the fancy stuf I changed my prompt in the .bashrc
 The prompt will be [User@Hostname current directory current date]
 
 The @ will have a red color
+
+##### Games 
+Google is your best friend [CLI Games](https://www.digitalocean.com/community/tutorials/top-10-linux-easter-eggs)
+
+*Install
+> sudo apt-get install emacs
+
+Run after you finished the installation 
+
+> emacs
+> Esc-x
+> pong
+
+*leave the game 
+
+> Ctrl-x
+> Ctrl-c
