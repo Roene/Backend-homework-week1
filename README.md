@@ -3,16 +3,20 @@
 ## Welcome message
 First I added a welcome message for the weather in Haarlem in the .bashrc with this code
 > curl wttr.in/Haarlem
+
 You can change "Haarlem with any place you want. 
 
 ## Aliases
 After the welcome message I added some aliases to make work easy also in the .bashrc file
 > alias subl='"/mnt/c/Program Files/Sublime Text 3/subl.exe"'
+
 Open sublime text editor
 
 > alias cdbackend='cd /mnt/d/school/jaar2/blok3/backend'
+
 Go to backend folder in the D drive.
 > alias cddownloads='cd /mnt/d/Downloads'
+
 Go to download folder in the D drive.
 
 ## Git alias
